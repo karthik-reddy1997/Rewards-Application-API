@@ -1,0 +1,12 @@
+INSERT INTO transaction (id, customer_id, customer_name, amount, transaction_date) VALUES (1, 1, 'John Doe', 120, '2025-05-15');
+INSERT INTO transaction (id, customer_id, customer_name, amount, transaction_date) VALUES (2, 1, 'John Doe', 75, '2025-05-20');
+INSERT INTO transaction (id, customer_id, customer_name, amount, transaction_date) VALUES (3, 1, 'John Doe', 45, '2025-06-05');
+INSERT INTO transaction (id, customer_id, customer_name, amount, transaction_date) VALUES (4, 1, 'John Doe', 200, '2025-06-25');
+INSERT INTO transaction (id, customer_id, customer_name, amount, transaction_date) VALUES (5, 2, 'Jane Smith', 130, '2025-05-17');
+INSERT INTO transaction (id, customer_id, customer_name, amount, transaction_date) VALUES (6, 2, 'Jane Smith', 85, '2025-06-07');
+INSERT INTO transaction (id, customer_id, customer_name, amount, transaction_date) VALUES (7, 2, 'Jane Smith', 50, '2025-07-03');
+INSERT INTO transaction (id, customer_id, customer_name, amount, transaction_date) VALUES (8, 2, 'Jane Smith', 110, '2025-07-15');
+INSERT INTO transaction (id, customer_id, customer_name, amount, transaction_date) VALUES (9, 3, 'Alice Johnson', 95, '2025-05-22');
+INSERT INTO transaction (id, customer_id, customer_name, amount, transaction_date) VALUES (10, 3, 'Alice Johnson', 150, '2025-06-30');
+INSERT INTO transaction (id, customer_id, customer_name, amount, transaction_date) VALUES (11, 3, 'Alice Johnson', 60, '2025-07-10');
+INSERT INTO transaction (id, customer_id, customer_name, amount, transaction_date) VALUES (12, 3, 'Alice Johnson', 40, '2025-07-25');
